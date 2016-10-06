@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="94" started-at="2016-10-05T15:25:48Z" finished-at="2016-10-05T15:25:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="94" started-at="2016-10-05T15:25:48Z" finished-at="2016-10-05T15:25:48Z">
+      <class name="com.apple.StringProblem.RemoveCharTest">
+        <test-method status="PASS" signature="TestremoveCharByChar1()[pri:0, instance:com.apple.StringProblem.RemoveCharTest@d70c109]" name="TestremoveCharByChar1" duration-ms="37" started-at="2016-10-05T08:25:48Z" finished-at="2016-10-05T08:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestremoveCharByChar1 -->
+        <test-method status="PASS" signature="TestremoveCharByChar2()[pri:0, instance:com.apple.StringProblem.RemoveCharTest@d70c109]" name="TestremoveCharByChar2" duration-ms="2" started-at="2016-10-05T08:25:48Z" finished-at="2016-10-05T08:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestremoveCharByChar2 -->
+        <test-method status="PASS" signature="TestremoveCharByChar3()[pri:0, instance:com.apple.StringProblem.RemoveCharTest@d70c109]" name="TestremoveCharByChar3" duration-ms="4" started-at="2016-10-05T08:25:48Z" finished-at="2016-10-05T08:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestremoveCharByChar3 -->
+        <test-method status="PASS" signature="TestremoveCharByMethod1()[pri:0, instance:com.apple.StringProblem.RemoveCharTest@d70c109]" name="TestremoveCharByMethod1" duration-ms="3" started-at="2016-10-05T08:25:48Z" finished-at="2016-10-05T08:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestremoveCharByMethod1 -->
+      </class> <!-- com.apple.StringProblem.RemoveCharTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
